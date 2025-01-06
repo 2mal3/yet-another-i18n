@@ -1,0 +1,37 @@
+{
+  "projectName": "yet-another-i18n",
+  "projectOwner": "2mal3",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "2mal3",
+      "name": "2mal3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56305732?v=4",
+      "profile": "https://github.com/2mal3",
+      "contributions": [
+        "code",
+        "doc",
+        "platform"
+      ]
+    },
+    {
+      "login": "LuisSchuimer",
+      "name": "Luis Schuimer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85784931?v=4",
+      "profile": "https://github.com/LuisSchuimer",
+      "contributions": [
+        "bug",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
