@@ -13,6 +13,14 @@ A lightweight and developer-friendly Python translation library designed for sim
 
 ## Usage
 
+### 0. Installation
+
+Install the package via pip:
+
+```bash
+pip install yet-another-i18n
+```
+
 ### 1. Initialization
 
 Create a `Translator` instance by specifying at least the fallback locale.
