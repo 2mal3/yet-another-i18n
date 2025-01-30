@@ -123,7 +123,10 @@ class Translator:
                 template = self._get_template_from_key(key, locale)
             except KeyError:
                 raise KeyError(f"Key '{key}' not found in fallback locale '{locale}'")
-        translation = template.format(**args)
+        try:
+            translation = template.format(**args)
+        except KeyError as e:
+            raise KeyError(f"Missing required translation argument: {e}")
 
         return translation
 
