@@ -1,9 +1,9 @@
 [project]
 name = "yet-another-i18n"
-version = "0.1.0"
+version = "0.2.0"
 description = "A lightweight and developer-friendly Python translation library designed for simplicity and flexibility."
 authors = [
-    { name = "2mal3", email = "56305732+2mal3@users.noreply.github.com" }
+    { name = "2mal3", email = "56305732+2mal3@users.noreply.github.com" },
 ]
 dependencies = []
 readme = "README.md"
@@ -42,9 +42,7 @@ build-backend = "hatchling.build"
 
 [tool.rye]
 managed = true
-dev-dependencies = [
-    "pytest==8.3.*",
-]
+dev-dependencies = ["pytest==8.3.*"]
 
 [tool.ruff]
 line-length = 120
