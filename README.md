@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/2mal3"><img src="https://avatars.githubusercontent.com/u/56305732?v=4?s=100" width="100px;" alt="2mal3"/><br /><sub><b>2mal3</b></sub></a><br /><a href="https://github.com/2mal3/yet-another-i18n/commits?author=2mal3" title="Code">💻</a> <a href="https://github.com/2mal3/yet-another-i18n/commits?author=2mal3" title="Documentation">📖</a> <a href="#platform-2mal3" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LuisSchuimer"><img src="https://avatars.githubusercontent.com/u/85784931?v=4?s=100" width="100px;" alt="Luis Schuimer"/><br /><sub><b>Luis Schuimer</b></sub></a><br /><a href="https://github.com/2mal3/yet-another-i18n/issues?q=author%3ALuisSchuimer" title="Bug reports">🐛</a> <a href="#userTesting-LuisSchuimer" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/programmer-44"><img src="https://avatars.githubusercontent.com/u/129310925?v=4?s=100" width="100px;" alt="E44"/><br /><sub><b>E44</b></sub></a><br /><a href="https://github.com/2mal3/yet-another-i18n/commits?author=programmer-44" title="Code">💻</a> <a href="#ideas-programmer-44" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
